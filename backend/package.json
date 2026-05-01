@@ -1,0 +1,25 @@
+{
+  "name": "ai-project-generator-backend",
+  "version": "1.0.0",
+  "description": "Backend API for AI Project Generator",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "ai",
+    "project-generator",
+    "express",
+    "api"
+  ],
+  "author": "DevSprint AI",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
